@@ -69,11 +69,6 @@
 
 </p>
 
-
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=destroyer2976&show_icons=true&locale=en&layout=compact" alt="destroyer2976" style="margin-right: 10px;" />
