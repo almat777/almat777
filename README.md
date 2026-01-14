@@ -68,12 +68,3 @@
   </a>
 
 </p>
-
-  <br/>
-  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=destroyer2976&show_icons=true&locale=en&layout=compact" alt="destroyer2976" style="margin-right: 10px;" />
-   
-  </div>
-  <br/>
-</details>
-<br/>
