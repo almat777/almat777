@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=;I'm+Automation+and+Robotics+Engineer" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/Aruna Yelyubay/" target="_blank">
+   <a href="https://www.linkedin.com/in/almat-abdimalik/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   
